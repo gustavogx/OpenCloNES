@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VG9000")(type "KiCad")(uri "/home/gvaldivi/Development/OpenCloNES/TurboGame/VG9000.pretty")(options "")(descr ""))
+)
